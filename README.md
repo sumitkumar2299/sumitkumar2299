@@ -129,7 +129,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/sumit-kumar-5919982a7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-sumitofficialme@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com">
