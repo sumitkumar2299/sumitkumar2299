@@ -104,9 +104,6 @@ Here are some ideas to get you started:
 > **Tech Stack:** Python, Flask, SQLite  
 > 🔗 [Live Demo](https://your-live-project-link.com) | [GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO)
 
-<p align="center">
-  <img src="https://img.freepik.com/free-psd/decorative-line-divider-design_23-2151358261.jpg?ga=GA1.1.583982067.1740516206&semt=ais_hybrid&w=740" height="20" alt="Gradient Divider" />
-</p>
 
 ---
 
