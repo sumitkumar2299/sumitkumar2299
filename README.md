@@ -123,19 +123,23 @@ Here are some ideas to get you started:
 
 ---
 
-## 📬 Connect With Me:
+<h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sumit-kumar-5919982a7">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:your-sumitofficialme@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  &nbsp;
+  <a href="https://linkedin.com/in/sumit-kumar-5919982a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  &nbsp;
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+ 
 </p>
+
 
 ---
 
