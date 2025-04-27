@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 ## 📬 Connect With Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/sumit-kumar-5919982a7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
