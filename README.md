@@ -85,9 +85,10 @@ Here are some ideas to get you started:
 > **Tech Stack:** React.js, Node.js, Express, MongoDB  
 > 🔗 [Live Demo](https://your-live-project-link.com) | [GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO)
 
-<p align="center">
-  <img src="https://img.freepik.com/free-psd/decorative-line-divider-design_23-2151358261.jpg?ga=GA1.1.583982067.1740516206&semt=ais_hybrid&w=740" alt="Gradient Divider" width="100%" />
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://img.freepik.com/free-psd/decorative-line-divider-design_23-2151358261.jpg?ga=GA1.1.583982067.1740516206&semt=ais_hybrid&w=100%" height="30" alt="Gradient Divider" />
 </p>
+
 
 ---
 
