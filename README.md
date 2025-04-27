@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 Aspiring Full Stack Developer | Data Science Enthusiast | Machine Coding Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/assets/banner.gif" alt="custom banner" width="100%" />
+  <img src="https://github.com/sumitkumar2299/sumitkumar2299/blob/main/assets/banner.gif" alt="custom banner" width="100%" />
 </p>
 
 ---
