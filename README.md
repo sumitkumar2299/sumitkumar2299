@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🏆 Preparing myself for **Internships + Jobs**.
 - 🌐 Love building **Full-stack Web Apps**, **APIs**, **Dashboards**.
 - 📚 Exploring **DevOps | Cloud | AI ML Basics**.
-- 📩 How to reach me: **your-email@example.com**
+- 📩 How to reach me: **sumitofficialme@gmail.com**
 
 ---
 
