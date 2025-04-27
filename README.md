@@ -75,6 +75,8 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
 ## 🚀 Featured Projects:
 
 ### 🛠️ Project Name 1
@@ -82,6 +84,10 @@ Here are some ideas to get you started:
 > 
 > **Tech Stack:** React.js, Node.js, Express, MongoDB  
 > 🔗 [Live Demo](https://your-live-project-link.com) | [GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO)
+
+<p align="center">
+  <img src="https://www.shutterstock.com/blog/wp-content/uploads/2022/07/gradient-backgrounds.jpg" alt="Gradient Divider" width="100%" />
+</p>
 
 ---
 
@@ -91,6 +97,10 @@ Here are some ideas to get you started:
 > **Tech Stack:** HTML, CSS, JavaScript, Firebase  
 > 🔗 [Live Demo](https://your-live-project-link.com) | [GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO)
 
+<p align="center">
+  <img src="https://www.shutterstock.com/blog/wp-content/uploads/2022/07/gradient-backgrounds.jpg" alt="Gradient Divider" width="100%" />
+</p>
+
 ---
 
 ### 🛠️ Project Name 3
@@ -99,6 +109,10 @@ Here are some ideas to get you started:
 > **Tech Stack:** Python, Flask, SQLite  
 > 🔗 [Live Demo](https://your-live-project-link.com) | [GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO)
 
+<p align="center">
+  <img src="https://www.shutterstock.com/blog/wp-content/uploads/2022/07/gradient-backgrounds.jpg" alt="Gradient Divider" width="100%" />
+</p>
+
 ---
 
 <p align="center">
@@ -106,6 +120,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
 
 
 ## 🚀 Latest Blog/Posts
