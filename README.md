@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 ## 🚀 Latest Blog/Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Latest Blogs will be shown here automatically if you integrate a blog]
+-  [Setting Up Redux Toolkit in React](https://techtalkwithsumit.hashnode.dev/setting-up-redux-toolkit-in-your-react-project)
 <!-- BLOG-POST-LIST:END -->
 
 ---
